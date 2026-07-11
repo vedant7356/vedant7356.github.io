@@ -2,7 +2,7 @@
 
 A single-page portfolio built as an **Android-style phone OS**. Every section borrows the visual language of a familiar Google app — projects live in a Play Store, achievements in Play Games, community work in a Photos-style memory feed, and the resume in a Files-app viewer — stitched together with scroll-driven animation, haptics, and a hidden train easter egg. 🚂
 
-**🌐 Live:** https://vedant7356.github.io
+**🌐 Live:** https://vedantprabhu.dev
 
 It's a fully static site — no build step, no bundler. Just HTML, CSS, and hand-written JavaScript on top of a small custom runtime.
 
